@@ -7,7 +7,3 @@ Here are my stats (the world is a video game, prove me wrong):
 - Pronouns: he/they
 - Programming experience: Scratch since 7, Javascript since 12, have been making Discord bots ever since
 - Math nerd
-
-Thank you for reading my README.md, please like and subscribe.
-
-<sub><sup><sub><sup>I totally don't have a crush, hi Olivia</sup></sub></sup></sub>
