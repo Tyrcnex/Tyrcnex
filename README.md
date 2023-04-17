@@ -1,9 +1,3 @@
 Hi! I'm Tyrcnex. You can get my name by removing the p from "encrypt", adding an x at the front, and reversing the result.
 
-I'm not that experienced with a variety of programming, but I believe I'm okayish at making Discord bots (my favorite achievement being that I recreated the entire Dank Memer adventure command)
-Here are my stats (the world is a video game, prove me wrong):
-
-- Age: 14 y/o
-- Pronouns: he/they
-- Programming experience: Scratch since 7, Javascript since 12, have been making Discord bots ever since
-- Math nerd
+I like math, programming, and art. I spend a lot of time on Desmos and Discord, and am trying to expand my game dev skills. Contact me on Discord at Tyrcnex#9403.
